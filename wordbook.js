@@ -3507,6 +3507,7 @@ var wordbook = {
     "importunity": "mowliness",
     "impose": "lay",
     "impossible": "hopeless",
+    "impotent": "mightless",
     "impregnate": "onget",
     "impress": "gladden",
     "impression": "reckoning",
